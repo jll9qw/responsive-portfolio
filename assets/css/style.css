@@ -248,6 +248,15 @@ body {
 
     .main-container{
         width:50%;
+        margin: auto;
+        
     }
+    #masthead{
+      width: 100%;
+      margin:auto;
+    }
+    #masthead nav {
+      width: 80%;
+  }
   }
   }
